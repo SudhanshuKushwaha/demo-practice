@@ -4,5 +4,10 @@ This is my first repository
 let's start to learn how to use github.
 Hare - krishna
 Hare - krishna
+krishna - krishna 
+hare - hare 
+
 Hare - ram 
 Hare - ram
+ram ram 
+hare hare 
